@@ -8,4 +8,5 @@ int main()
   printf("sum is %f\n",s);
 
 }
+// sum is 2.332431
 // matches with solution calculated by gp series
